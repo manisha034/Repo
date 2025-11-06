@@ -17,3 +17,4 @@ class Main {
     System.out.println(first + " + " + second + " = "  + sum);
   }
 }
+new code by dev-1 without pull the code
