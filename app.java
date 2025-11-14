@@ -4,6 +4,12 @@ public class HelloWorld {
     }
 }
 
+// Java program to find GCD of two numbers
+class GFG {
+    // Gcd of x and y using recursive function
+    static int GCD(int x, int y)
+    {
+
 //dev-2 code push from local
 class Main {
 
