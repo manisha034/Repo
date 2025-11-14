@@ -9,8 +9,3 @@ body {
     stage.setScene(scene);
 
 
-selector {
-    property1: value;
-    property2: value;
-}
-
