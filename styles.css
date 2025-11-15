@@ -6,7 +6,12 @@ body {
 }
     Scene scene = new Scene(root, 700, 300);
     scene.getStylesheets().add("Style.css"); // Link your CSS file
+
+font{
+  size: 10px;
+}
    
+
 
 
 
